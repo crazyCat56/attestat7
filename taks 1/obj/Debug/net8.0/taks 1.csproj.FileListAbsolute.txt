@@ -1,0 +1,14 @@
+C:\Users\Dmitry\OneDrive\Рабочий стол\GB\c hcar\практика\дз к семинарам\семинар 7 аттистация\taks 1\bin\Debug\net8.0\taks 1.exe
+C:\Users\Dmitry\OneDrive\Рабочий стол\GB\c hcar\практика\дз к семинарам\семинар 7 аттистация\taks 1\bin\Debug\net8.0\taks 1.deps.json
+C:\Users\Dmitry\OneDrive\Рабочий стол\GB\c hcar\практика\дз к семинарам\семинар 7 аттистация\taks 1\bin\Debug\net8.0\taks 1.runtimeconfig.json
+C:\Users\Dmitry\OneDrive\Рабочий стол\GB\c hcar\практика\дз к семинарам\семинар 7 аттистация\taks 1\bin\Debug\net8.0\taks 1.dll
+C:\Users\Dmitry\OneDrive\Рабочий стол\GB\c hcar\практика\дз к семинарам\семинар 7 аттистация\taks 1\bin\Debug\net8.0\taks 1.pdb
+C:\Users\Dmitry\OneDrive\Рабочий стол\GB\c hcar\практика\дз к семинарам\семинар 7 аттистация\taks 1\obj\Debug\net8.0\taks 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dmitry\OneDrive\Рабочий стол\GB\c hcar\практика\дз к семинарам\семинар 7 аттистация\taks 1\obj\Debug\net8.0\taks 1.AssemblyInfoInputs.cache
+C:\Users\Dmitry\OneDrive\Рабочий стол\GB\c hcar\практика\дз к семинарам\семинар 7 аттистация\taks 1\obj\Debug\net8.0\taks 1.AssemblyInfo.cs
+C:\Users\Dmitry\OneDrive\Рабочий стол\GB\c hcar\практика\дз к семинарам\семинар 7 аттистация\taks 1\obj\Debug\net8.0\taks 1.csproj.CoreCompileInputs.cache
+C:\Users\Dmitry\OneDrive\Рабочий стол\GB\c hcar\практика\дз к семинарам\семинар 7 аттистация\taks 1\obj\Debug\net8.0\taks 1.dll
+C:\Users\Dmitry\OneDrive\Рабочий стол\GB\c hcar\практика\дз к семинарам\семинар 7 аттистация\taks 1\obj\Debug\net8.0\refint\taks 1.dll
+C:\Users\Dmitry\OneDrive\Рабочий стол\GB\c hcar\практика\дз к семинарам\семинар 7 аттистация\taks 1\obj\Debug\net8.0\taks 1.pdb
+C:\Users\Dmitry\OneDrive\Рабочий стол\GB\c hcar\практика\дз к семинарам\семинар 7 аттистация\taks 1\obj\Debug\net8.0\taks 1.genruntimeconfig.cache
+C:\Users\Dmitry\OneDrive\Рабочий стол\GB\c hcar\практика\дз к семинарам\семинар 7 аттистация\taks 1\obj\Debug\net8.0\ref\taks 1.dll
